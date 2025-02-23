@@ -43,7 +43,7 @@
         "eslint-plugin-prettier": "5.0.0",
         "eslint-plugin-unicorn": "48.0.1",
         "husky": "8.0.3",
-        "mocha": "10.2.0",
+        "mocha": "10.8.2",
         "prettier-eslint": "15.0.1",
         "sinon": "17.0.1"
     },
